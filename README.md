@@ -1,4 +1,4 @@
-# Projeto - Orientação de Dados com C#
+# Projeto - Programação Orientado a Objetos em C#
 
 ## 📝 Sumário
 
@@ -8,11 +8,12 @@
 - [Estrutura](#structure)
 
 ## Sobre <a name = "about"></a>
-<p align="center">
-<br>
+
 Projeto desenvolvido em console de aplicação bancária 
 > Realizado na plataforma da Digital Innovation One
->> 🚀 Bootcamp .Net Fundamentals
+> Bootcamp 🚀 = .Net Fundamentals
+<p align="center">
+<br>
 <br>
   <a href="https://web.digitalinnovation.one/" rel="noopener">
  <img width=800px height=400px src="https://hermes.digitalinnovation.one/site/images/cover_dio.jpg" alt="Logo Digital Innovation One"></a>
