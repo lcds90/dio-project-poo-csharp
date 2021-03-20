@@ -19,11 +19,10 @@ Projeto desenvolvido em console de aplicação bancária
 </p>
 
 ## 🧐 Imagens do projeto <a name = "imgs"></a>
-<hr>
 <p align="center">
 <img width=683px height=384px src="https://image.shutterstock.com/image-vector/sample-stamp-grunge-texture-vector-260nw-1389188336.jpg" alt="Exemplo">
 </p>
-<hr>
+
 ## ✍️ Conceitos aprendidos <a name = "learned"></a>
 
 ### Orientação a objetos
