@@ -56,7 +56,7 @@ Os tipos são:
 #### Métodos:
 
 ```
-<acessibilidade> <sobrecarga> <retorno> <nomeFuncao>()
+<acessibilidade> <modificador> <retorno> <nomeFuncao>()
 ```
 - Acessibilidade: public, protected, private
 - Sobrecarga: override
