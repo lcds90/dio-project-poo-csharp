@@ -26,17 +26,18 @@ Apliquei validação de contas ao realizar tentativas de utilização do sistema
 </p>
 
 <p align="center">
-<img width=683px height=384px src="https://image.shutterstock.com/image-vector/sample-stamp-grunge-texture-vector-260nw-1389188336.jpg" alt="Exemplo">
+<img src="https://raw.githubusercontent.com/lcds90/dio-project-poo/main/img/screenshoot.png?token=AKT7QT6LWSHXI72W6ZL3HPDAELZ2G" alt="Screenshot 1">
+<img src="https://raw.githubusercontent.com/lcds90/dio-project-poo/main/img/screenshot2.png?token=AKT7QT6LWSHXI72W6ZL3HPDAELZ2G" alt="Screenshot 2">
 </p>
 
 ## :file_folder: Estrutura do projeto <a name = "structure"></a>
-
+```
  ├── dio-project-poo                   
     ├── class                    # Arquivos com classes do programa.
     ├── enum                     # Arquivos com dados pré-definidos
     ├── Program.cs               # Main de app
     └── README.md
-
+```
 ## :memo: Conceitos aprendidos <a name = "learned"></a>
 
 ### Orientação a objetos
@@ -54,8 +55,9 @@ Os tipos são:
 
 #### Métodos:
 
+```
 <acessibilidade> <sobrecarga> <retorno> <nomeFuncao>()
-
+```
 - Acessibilidade: public, protected, private
 - Sobrecarga: override
 - Retorno: Qual o tipo do retorno (int, double, string, ...)
