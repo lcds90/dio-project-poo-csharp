@@ -26,8 +26,8 @@ Apliquei validação de contas ao realizar tentativas de utilização do sistema
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/lcds90/dio-project-poo/main/img/screenshoot.png?token=AKT7QT6LWSHXI72W6ZL3HPDAELZ2G" alt="Screenshot 1">
-<img src="https://raw.githubusercontent.com/lcds90/dio-project-poo/main/img/screenshot2.png?token=AKT7QT6LWSHXI72W6ZL3HPDAELZ2G" alt="Screenshot 2">
+<img src="https://raw.githubusercontent.com/lcds90/dio-project-poo-csharp/development/img/screenshot.PNG" alt="Screenshot 1">
+<img src="https://raw.githubusercontent.com/lcds90/dio-project-poo-csharp/development/img/screenshot2.PNG" alt="Screenshot 2">
 </p>
 
 ## :file_folder: Estrutura do projeto <a name = "structure"></a>
