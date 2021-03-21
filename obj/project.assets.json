@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leonardo\\Documents\\GitHub\\ws-c-sharp\\dio-project-poo\\DIO.Bank.csproj",
-      "projectName": "DIO.Bank",
-      "projectPath": "C:\\Users\\Leonardo\\Documents\\GitHub\\ws-c-sharp\\dio-project-poo\\DIO.Bank.csproj",
+      "projectUniqueName": "C:\\Users\\Leonardo\\Documents\\GitHub\\ws-c-sharp\\dio-project-poo\\dio_project_poo.csproj",
+      "projectName": "dio_project_poo",
+      "projectPath": "C:\\Users\\Leonardo\\Documents\\GitHub\\ws-c-sharp\\dio-project-poo\\dio_project_poo.csproj",
       "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Leonardo\\Documents\\GitHub\\ws-c-sharp\\dio-project-poo\\obj\\",
       "projectStyle": "PackageReference",
